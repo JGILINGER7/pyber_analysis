@@ -5,7 +5,7 @@
     We wanted to look at the use patterns for drivers and riders based on whether they were in a rural, subuurban or urban area with 
     with the end goal of improving access and affordability. 
 ### Method 
-    Taking the info in the [ride_data.csv](../pyber_analysis/resources/ride_data.csv) and [city_data.csv](../pyber_analysis/resources/city_data.csv)
+    Taking the info in the ![ride_data.csv](../pyber_analysis/resources/ride_data.csv) and [city_data.csv](../pyber_analysis/resources/city_data.csv)
  we were able to create data frames that allowed us to break down the, when, where, how often, and how much of Pybers riders and drivers. We then used Matplotlib to turn this info into easily understood visualizations.
 
 ## Results
