@@ -5,11 +5,10 @@
     We wanted to look at the use patterns for drivers and riders based on whether they were in a rural, subuurban or urban area with 
     with the end goal of improving access and affordability. 
 ### Method 
-    Taking the info in the ![ride_data.csv](../pyber_analysis/resources/ride_data.csv) and [city_data.csv](../pyber_analysis/resources/city_data.csv)
- we were able to create data frames that allowed us to break down the, when, where, how often, and how much of Pybers riders and drivers. We then used Matplotlib to turn this info into easily understood visualizations.
+    Taking the info in the ride_data.csv file and the city_data.csv file we were able to create data frames that allowed us to break down the, when, where, how often, and how much of Pybers riders and drivers. We then used Matplotlib to turn this info into easily understood visualizations.
 
 ## Results
-    ![Pyber Rid-Sharing Data (2019)](../pyber_analysis/analysis/Fig1.png)
+    ![Pyber Ride-Sharing Data](https://github.com/JGILINGER7/pyber_analysis/blob/main/analysis/Fig1.png)
     Starting with this first graph we see that there is a trend that with increased density comes increased ride frequency and shorter rides with lower fares. This shouldn't be surprising lower population density in the Suburbs and Rural areas means less potential riders and greater distances between homes and services. 
     Looking at ![Total Fare by City Type](../pyber_analysis/analysis/PyBer_fare_summary.png)
     we see that fares generally track and stay around the same range of plus or minus $300. This shows that ridership is steady in each type of city over time. 
